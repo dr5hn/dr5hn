@@ -19,7 +19,7 @@
 - 👨🏽‍💻 I’m currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database)
 - 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database) 🤝
-- 🤔 I’m actively looking for Remote Position
+- 🔎 I’m actively looking for Remote Position
 - 💬 Ask me about anything, I am happy to help
 
 ## ✅ Checkout
