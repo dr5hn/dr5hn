@@ -11,18 +11,18 @@
 <a href="https://sourcerer.io/dr5hn"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="28" alt="Darshan's Sourcerer Profile"></a>
 
 <!-- Talking about you -->
-## Talking about Personal Stuffs:
+## 📃 Status
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/code-review.svg" />
+<img width="47%" align="right" alt="Github" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/code-review.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database);
+- 👨🏽‍💻 I’m currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database)
 - 🌱 I’m currently learning VueJS
-- 👯 I’m looking to collaborate on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database) 🤝;
-- 🤔 I’m actively looking for Remote Position;
-- 💬 Ask me about anything, I am happy to help;
+- 👯 I’m looking to collaborate on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database) 🤝
+- 🤔 I’m actively looking for Remote Position
+- 💬 Ask me about anything, I am happy to help
 
-## Checkout
+## ✅ Checkout
 - [My Resume](https://github.com/dr5hn/resume)
 - [Projects](https://github.com/dr5hn/projects)
 
