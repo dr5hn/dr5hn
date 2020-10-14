@@ -12,6 +12,7 @@
 <a href="https://dev.to/dr5hn"><img src="https://img.shields.io/badge/-DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white&logoHeight=40" alt="Darshan Gada 👨‍💻's DEV Profile" /></a>
 <a href="https://sourcerer.io/dr5hn"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="30" alt="Sourcerer"></a>
 
+## 👨🏻‍💻 Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/dr5hn/developer-glossary/pull/1) in [dr5hn/developer-glossary](https://github.com/dr5hn/developer-glossary)
 2. 🗣 Commented on [#21](https://github.com/Tomburgs/pwa-boilerplate/issues/21) in [Tomburgs/pwa-boilerplate](https://github.com/Tomburgs/pwa-boilerplate)
@@ -20,7 +21,7 @@
 5. 🗣 Commented on [#123](https://github.com/dr5hn/countries-states-cities-database/issues/123) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
 <!--END_SECTION:activity-->
 
----
+## 🙋‍♂️ Support Me
 <p align="center">
   <a href="https://www.paypal.me/dr5hn" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/support-paypal.png"/>
