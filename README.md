@@ -10,6 +10,14 @@
 <a href="https://dev.to/dr5hn"><img src="https://img.shields.io/badge/-DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white&logoHeight=40" alt="Darshan Gada 👨‍💻's DEV Profile" /></a>
 <a href="https://sourcerer.io/dr5hn"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="28" alt="Darshan's Sourcerer Profile"></a>
 
+## Checkout
+<a href="https://github.com/dr5hn/resume">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dr5hn&repo=resume&theme=shades-of-purple&hide_border=true" width="50%" />
+</a>
+<a href="https://github.com/dr5hn/projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dr5hn&repo=projects&theme=shades-of-purple&hide_border=true" width="50%" />
+</a>
+
 ## 👨🏻‍💻 Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/dr5hn/developer-glossary/pull/1) in [dr5hn/developer-glossary](https://github.com/dr5hn/developer-glossary)
