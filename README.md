@@ -14,7 +14,7 @@
 ## Talking about Personal Stuffs:
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/code-review.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database);
 - 🌱 I’m currently learning VueJS
