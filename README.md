@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm <b>Darshan Gada</b>, Fullstack Software developer (and sometimes still an OpenSource Contributor) from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>Mumbai, Maharashtra, India</b>. </p>
+
+
 
 <!--
 **dr5hn/dr5hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
