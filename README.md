@@ -17,10 +17,10 @@
 ---
 <p align="center">
   <a href="https://www.paypal.me/dr5hn" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/dr5hn/.github/resources/support-paypal.png"/>
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/support-paypal.png"/>
   </a>
   <a href="https://www.buymeacoffee.com/dr5hn" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/dr5hn/.github/resources/support-buy-coffee.png"/>
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/support-buy-coffee.png"/>
   </a>
 </p>
 
