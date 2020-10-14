@@ -10,13 +10,21 @@
 <a href="https://dev.to/dr5hn"><img src="https://img.shields.io/badge/-DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white&logoHeight=40" alt="Darshan Gada 👨‍💻's DEV Profile" /></a>
 <a href="https://sourcerer.io/dr5hn"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="28" alt="Darshan's Sourcerer Profile"></a>
 
+<!-- Talking about you -->
+## Talking about Personal Stuffs:
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I’m currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database);
+- 🌱 I’m currently learning VueJS
+- 👯 I’m looking to collaborate on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database) 🤝;
+- 🤔 I’m actively looking for Remote Position;
+- 💬 Ask me about anything, I am happy to help;
+
 ## Checkout
-<a href="https://github.com/dr5hn/resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dr5hn&repo=resume&theme=shades-of-purple&hide_border=true" width="50%" />
-</a>
-<a href="https://github.com/dr5hn/projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dr5hn&repo=projects&theme=shades-of-purple&hide_border=true" width="50%" />
-</a>
+- [My Resume](https://github.com/dr5hn/resume)
+- [Projects](https://github.com/dr5hn/projects)
 
 ## 👨🏻‍💻 Recent Activity
 <!--START_SECTION:activity-->
