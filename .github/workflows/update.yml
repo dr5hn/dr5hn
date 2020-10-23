@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '5 4 * * sun' # Runs at 04:05 UTC on Sun
   workflow_dispatch:
 
 jobs:
