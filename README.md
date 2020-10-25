@@ -28,11 +28,11 @@
 
 ## 👨🏻‍💻 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/dr5hn/countries-states-cities-database/issues/124) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-2. 🗣 Commented on [#124](https://github.com/dr5hn/countries-states-cities-database/issues/124) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-3. ❌ Closed PR [#62](https://github.com/ilovejson/ilovejson/pull/62) in [ilovejson/ilovejson](https://github.com/ilovejson/ilovejson)
-4. 🎉 Merged PR [#1](https://github.com/dr5hn/dr5hn/pull/1) in [dr5hn/dr5hn](https://github.com/dr5hn/dr5hn)
-5. 🗣 Commented on [#1](https://github.com/dr5hn/dr5hn/issues/1) in [dr5hn/dr5hn](https://github.com/dr5hn/dr5hn)
+1. 🎉 Merged PR [#127](https://github.com/dr5hn/countries-states-cities-database/pull/127) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+2. 🎉 Merged PR [#126](https://github.com/dr5hn/countries-states-cities-database/pull/126) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+3. ❗️ Closed issue [#107](https://github.com/dr5hn/countries-states-cities-database/issues/107) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+4. 💪 Opened PR [#126](https://github.com/dr5hn/countries-states-cities-database/pull/126) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+5. 🗣 Commented on [#107](https://github.com/dr5hn/countries-states-cities-database/issues/107) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
 <!--END_SECTION:activity-->
 
 ## 🙋‍♂️ Support Me
