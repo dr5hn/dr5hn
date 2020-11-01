@@ -28,11 +28,11 @@
 
 ## 👨🏻‍💻 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/dr5hn/countries-states-cities-database/pull/127) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-2. 🎉 Merged PR [#126](https://github.com/dr5hn/countries-states-cities-database/pull/126) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-3. ❗️ Closed issue [#107](https://github.com/dr5hn/countries-states-cities-database/issues/107) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-4. 💪 Opened PR [#126](https://github.com/dr5hn/countries-states-cities-database/pull/126) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-5. 🗣 Commented on [#107](https://github.com/dr5hn/countries-states-cities-database/issues/107) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+1. ❌ Closed PR [#2](https://github.com/dr5hn/developer-glossary/pull/2) in [dr5hn/developer-glossary](https://github.com/dr5hn/developer-glossary)
+2. 🎉 Merged PR [#136](https://github.com/dr5hn/countries-states-cities-database/pull/136) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+3. 🎉 Merged PR [#133](https://github.com/dr5hn/countries-states-cities-database/pull/133) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+4. 🗣 Commented on [#41](https://github.com/do-community/developer-glossary/issues/41) in [do-community/developer-glossary](https://github.com/do-community/developer-glossary)
+5. 💪 Opened PR [#2](https://github.com/dr5hn/developer-glossary/pull/2) in [dr5hn/developer-glossary](https://github.com/dr5hn/developer-glossary)
 <!--END_SECTION:activity-->
 
 ## 🙋‍♂️ Support Me
