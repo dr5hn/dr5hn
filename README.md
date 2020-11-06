@@ -1,10 +1,10 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://www.ombrecraft.com/images/2.gif" width="90"/>, nice to see you.
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://www.ombrecraft.com/images/2.gif" width="70"/>, nice to see you.
 </h1>
 
-<p>I'm <b>Darshan Gada</b>, Fullstack Software developer (and sometimes still an OpenSource Contributor) from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" height="9"/> <b>Mumbai, Maharashtra, India</b>. </p>
+<p>I'm <b>Darshan Gada</b>, Fullstack Software developer (and sometimes still an OpenSource Contributor) from <b>Mumbai, Maharashtra, India</b>. </p>
 
-<a href="mailto:gadadarshan@gmail.com?subject=%5BGitHub%5D%20%F0%9F%94%A5Contact&body=Hello%20Darshan%2C%0D%0A%0D%0AI've%20seen%20your%20Github%20Profile%2C%20I%20want%20to"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" height="28"/></a><a href="https://linkedin.com/in/dr5hn"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a><a href="https://twitter.com/dr5hn"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&logoHeight=40" height="28" /></a><a href="https://dev.to/dr5hn"><img src="https://img.shields.io/badge/-DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white&logoHeight=40" alt="Darshan Gada 👨‍💻's DEV Profile" height="28"/></a><a href="https://sourcerer.io/dr5hn"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="28" alt="Darshan's Sourcerer Profile"></a>
+[Email](mailto:gadadarshan@gmail.com?subject=%5BGitHub%5D%20%F0%9F%94%A5Contact&body=Hello%20Darshan%2C%0D%0A%0D%0AI've%20seen%20your%20Github%20Profile%2C%20I%20want%20to) | [LinkedIn](https://linkedin.com/in/dr5hn) | [Twitter](https://twitter.com/dr5hn) | [Dev.to](https://dev.to/dr5hn) | [Sourcerer](https://sourcerer.io/dr5hn)
 
 <!-- Talking about you -->
 ## 📃 Status
