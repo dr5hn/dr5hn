@@ -8,7 +8,6 @@
 
 <!-- Talking about you -->
 ## 📃 Status
-- 🔎 I’m actively looking for Remote Job
 - 👨🏻‍💻 I’m currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database)
 - 🌱 I’m currently learning GraphQL & VueJS
 - 👯 I’m looking to collaborate on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database) 🤝
