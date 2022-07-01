@@ -18,14 +18,11 @@
 - [Projects](https://github.com/dr5hn/resume/blob/main/projects.md)
 
 ## 🙋‍♂️ Support My Work
-<p>
-  <a href="https://www.paypal.me/dr5hn" target="_blank">
-      <img height="50" alt="Support with Paypal" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/support-paypal.png"/>
-  </a>
-  <a href="https://ko-fi.com/dr5hn" target="_blank">
-      <img height="50" alt="Buy me a coffee" src="https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/support-buy-coffee.png"/>
-  </a>
-</p>
+
+[![Github Sponsorship](.github/resources/github_sponsor_btn.svg)](https://github.com/sponsors/dr5hn)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dr5hn)
+
 
 <!--
 **dr5hn/dr5hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
