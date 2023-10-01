@@ -9,7 +9,7 @@
 <!-- Talking about you -->
 ## 📃 Status
 - 👨🏻‍💻 I’m currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database)
-- 🌱 I’m currently learning GraphQL & VueJS
+- 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database) 🤝
 - 💬 Ask me about anything, I am happy to help
 
@@ -22,6 +22,8 @@
 [![Github Sponsorship](.github/resources/github_sponsor_btn.svg)](https://github.com/sponsors/dr5hn)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dr5hn)
+
+[![An image of @dr5hn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dr5hn)](https://holopin.io/@dr5hn)
 
 
 <!--
