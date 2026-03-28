@@ -30,8 +30,11 @@ The world's most comprehensive open-source geographic database, used by thousand
 | [**csc-export-tool**](https://github.com/dr5hn/csc-export-tool) | Bulk data export with credit-based billing |
 | [**csc-docs**](https://github.com/dr5hn/csc-docs) | API documentation - Mintlify |
 | [**@countrystatecity/countries**](https://github.com/dr5hn/countrystatecity-countries) | NPM package - 160x smaller than alternatives |
+| [**@countrystatecity/countries-browser**](https://github.com/dr5hn/countrystatecity-countries-browser) | Browser-native package - jsDelivr CDN, lazy loading, works in React/Vue/Svelte |
+| [**@countrystatecity/cli**](https://github.com/dr5hn/countrystatecity-cli) | CLI tool - search, explore, and generate code from geographic data |
 | [**@countrystatecity/timezones**](https://github.com/dr5hn/countrystatecity-timezones) | NPM package - 427 timezones, 100% IANA coverage |
 | [**countrystatecity (PyPI)**](https://github.com/dr5hn/countrystatecity-pypi) | Python package - Pydantic models, fully typed |
+| [**csc-swagger**](https://github.com/dr5hn/csc-swagger) | API playground - Swagger UI for exploring endpoints |
 
 ## Other Projects
 
