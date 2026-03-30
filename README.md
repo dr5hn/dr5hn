@@ -24,8 +24,8 @@ The world's most comprehensive open-source geographic database, used by thousand
 | Project | What it does |
 |---------|-------------|
 | [**countries-states-cities-database**](https://github.com/dr5hn/countries-states-cities-database) | Core database - JSON, SQL, CSV, GeoJSON, XML, YAML, MongoDB, SQLite, and more |
-| [**csc-app**](https://countrystatecity.in) | Freemium API platform - Express, Prisma, React, TypeScript, Dodo Payments |
-| [**csc-website-v2**](https://countrystatecity.in) | Public website - Next.js 15, Tailwind CSS 4, Three.js |
+| [**csc-app**](https://countrystatecity.in) | Freemium API platform |
+| [**csc-website-v2**](https://countrystatecity.in) | Public website - Next.js 16, Tailwind CSS 4, Three.js |
 | [**csc-org-website**](https://countrystatecity.org) | Encyclopedia site - Next.js 16, React 19 |
 | [**csc-export-tool**](https://export.countrystatecity.in) | Bulk data export with credit-based billing |
 | [**csc-docs**](https:/docs.countrystatecity.in) | API documentation - Mintlify |
