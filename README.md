@@ -27,8 +27,8 @@ The world's most comprehensive open-source geographic database, used by thousand
 | [**csc-app**](https://countrystatecity.in) | Freemium API platform - Express, Prisma, React, TypeScript, Dodo Payments |
 | [**csc-website-v2**](https://countrystatecity.in) | Public website - Next.js 15, Tailwind CSS 4, Three.js |
 | [**csc-org-website**](https://countrystatecity.org) | Encyclopedia site - Next.js 16, React 19 |
-| [**csc-export-tool**](https://github.com/dr5hn/csc-export-tool) | Bulk data export with credit-based billing |
-| [**csc-docs**](https://github.com/dr5hn/csc-docs) | API documentation - Mintlify |
+| [**csc-export-tool**](https://export.countrystatecity.in) | Bulk data export with credit-based billing |
+| [**csc-docs**](https:/docs.countrystatecity.in) | API documentation - Mintlify |
 | [**@countrystatecity/countries**](https://github.com/dr5hn/countrystatecity-countries) | NPM package - 160x smaller than alternatives |
 | [**@countrystatecity/countries-browser**](https://github.com/dr5hn/countrystatecity-countries-browser) | Browser-native package - jsDelivr CDN, lazy loading, works in React/Vue/Svelte |
 | [**@countrystatecity/cli**](https://github.com/dr5hn/countrystatecity-cli) | CLI tool - search, explore, and generate code from geographic data |
