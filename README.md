@@ -1,6 +1,6 @@
 # Hi, I'm Darshan
 
-**Mumbai, India** | **Open Source Platform Builder** | **Head of AI & Innovations at [SOZO Design](https://sozodesign.co.uk)**
+**Mumbai, India** | **Open Source Platform Builder** 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -13,13 +13,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> I build and maintain [Country State City](https://countrystatecity.in) - an open-source geo-data platform serving **1.2 billion API requests/month** across **250 countries, 5,299 states, and 153,765 cities**. By day, I lead AI & innovation strategy at a UK-based agency.
+> I build and maintain [Country State City](https://countrystatecity.in) - an open-source geo-data platform. By day, I lead AI & innovation strategy at a UK-based agency.
 
 ## Country State City - Geo-Data Platform
 
 The world's most comprehensive open-source geographic database, used by thousands of developers in production.
-
-**9.4k+ stars** · **3k+ forks** · **1.2B requests/month** · **157k+ tracked changes** · **11 data formats**
 
 | Project | What it does |
 |---------|-------------|
@@ -56,13 +54,6 @@ The world's most comprehensive open-source geographic database, used by thousand
 - **[403](https://github.com/dr5hn/403)** - Single-file 403 error page template (27 stars)
 - **[domain-for-sale](https://github.com/dr5hn/domain-for-sale)** - Single-file domain for sale template
 
-## AI & Innovation (at SOZO Design)
-
-Leading AI strategy and adoption across a UK-based agency as Head of AI & Innovations. Building production AI systems with OpenAI, MCP, n8n, RAG, and multi-agent workflows.
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/dr5hn)
 
 ## Connect
 
