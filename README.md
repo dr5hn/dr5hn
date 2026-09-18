@@ -21,23 +21,24 @@ The world's most comprehensive open-source geographic database, used by thousand
 
 | Project | What it does | Repo | Site |
 |---------|-------------|------|------|
-| **countries-states-cities-database** | Core database - JSON, SQL, CSV, GeoJSON, XML, YAML, MongoDB, SQLite, and more | [Repo](https://github.com/dr5hn/countries-states-cities-database) | — |
-| **csc-app** | Freemium API platform | [Repo](https://github.com/dr5hn/csc-app) | [Site](https://app.countrystatecity.in) |
-| **csc-website-v2** | Public website - Next.js 16, Tailwind CSS 4, Three.js | [Repo](https://github.com/dr5hn/csc-website-v2) | [Site](https://countrystatecity.in) |
-| **csc-org-website** | Encyclopedia site - Next.js 16, React 19 | [Repo](https://github.com/dr5hn/csc-org-website) | [Site](https://countrystatecity.org) |
-| **csc-export-tool** | Bulk data export with credit-based billing | [Repo](https://github.com/dr5hn/csc-export-tool) | [Site](https://export.countrystatecity.in) |
-| **csc-docs** | API documentation - Mintlify | [Repo](https://github.com/dr5hn/csc-docs) | [Site](https://docs.countrystatecity.in) |
-| **@countrystatecity/countries** | NPM package - 160x smaller than alternatives | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries) | [Site](https://www.npmjs.com/package/@countrystatecity/countries) |
-| **@countrystatecity/countries-browser** | Browser-native package - jsDelivr CDN, lazy loading, works in React/Vue/Svelte | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries-browser) | [Site](https://www.npmjs.com/package/@countrystatecity/countries-browser) |
-| **@countrystatecity/cli** | CLI tool - search, explore, and generate code from geographic data | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/cli) | [Site](https://www.npmjs.com/package/@countrystatecity/cli) |
-| **@countrystatecity/timezones** | NPM package - 427 timezones, 100% IANA coverage | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/timezones) | [Site](https://www.npmjs.com/package/@countrystatecity/timezones) |
-| **countrystatecity (PyPI)** | Python package - Pydantic models, fully typed | [Repo](https://github.com/dr5hn/countrystatecity-pypi) | [Site](https://pypi.org/user/dr5hn/) |
-| **csc-swagger** | API playground - Swagger UI for exploring endpoints | [Repo](https://github.com/dr5hn/csc-swagger-playground) | [Site](http://playground.countrystatecity.in/) |
+| **countries-states-cities-database** | Core database - JSON, SQL, CSV, GeoJSON, XML, YAML, MongoDB, SQLite, and more | [Repo](https://github.com/dr5hn/countries-states-cities-database) | [Site](https://countrystatecity.in/product/database/?utm_source=github&utm_medium=readme&utm_campaign=csc-database) |
+| **csc-demo** | Demo website of the database | [Repo](https://github.com/dr5hn/csc-demo) | [Site](https://demo.countrystatecity.in/?utm_source=github&utm_medium=readme&utm_campaign=csc-demo) |
+| **csc-app** | Freemium API platform | [Repo](https://github.com/dr5hn/csc-app) | [Site](https://countrystatecity.in/product/api/?utm_source=github&utm_medium=readme&utm_campaign=csc-app) |
+| **csc-website-v2** | Public website - Next.js 16, Tailwind CSS 4, Three.js | [Repo](https://github.com/dr5hn/csc-website-v2) | [Site](https://countrystatecity.in/?utm_source=github&utm_medium=readme&utm_campaign=csc-website) |
+| **csc-org-website** | Encyclopedia site - Next.js 16, React 19 | [Repo](https://github.com/dr5hn/csc-org-website) | [Site](https://countrystatecity.org/?utm_source=github&utm_medium=readme&utm_campaign=csc-org) |
+| **csc-export-tool** | Bulk data export with credit-based billing | [Repo](https://github.com/dr5hn/csc-export-tool) | [Site](https://countrystatecity.in/product/export-tool/?utm_source=github&utm_medium=readme&utm_campaign=csc-export-tool) |
+| **csc-docs** | API documentation - Mintlify | [Repo](https://github.com/dr5hn/csc-docs) | [Site](https://docs.countrystatecity.in/?utm_source=github&utm_medium=readme&utm_campaign=csc-docs) |
+| **@countrystatecity/countries** | NPM package - 160x smaller than alternatives | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries) | [Site](https://www.npmjs.com/package/@countrystatecity/countries?utm_source=github&utm_medium=readme&utm_campaign=npm-countries) |
+| **@countrystatecity/countries-browser** | Browser-native package - jsDelivr CDN, lazy loading, works in React/Vue/Svelte | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries-browser) | [Site](https://www.npmjs.com/package/@countrystatecity/countries-browser?utm_source=github&utm_medium=readme&utm_campaign=npm-countries-browser) |
+| **@countrystatecity/cli** | CLI tool - search, explore, and generate code from geographic data | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/cli) | [Site](https://www.npmjs.com/package/@countrystatecity/cli?utm_source=github&utm_medium=readme&utm_campaign=npm-cli) |
+| **@countrystatecity/timezones** | NPM package - 427 timezones, 100% IANA coverage | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/timezones) | [Site](https://www.npmjs.com/package/@countrystatecity/timezones?utm_source=github&utm_medium=readme&utm_campaign=npm-timezones) |
+| **countrystatecity (PyPI)** | Python package - Pydantic models, fully typed | [Repo](https://github.com/dr5hn/countrystatecity-pypi) | [Site](https://pypi.org/user/dr5hn/?utm_source=github&utm_medium=readme&utm_campaign=pypi-profile) |
+| **csc-swagger-playground** | API playground - Swagger UI for exploring endpoints | [Repo](https://github.com/dr5hn/csc-swagger-playground) | [Site](https://playground.countrystatecity.in/?utm_source=github&utm_medium=readme&utm_campaign=csc-swagger-playground) |
 
 ## Other Projects
 
-- **iLoveJSON** - JSON conversion toolkit (CSV, HTML, XML, TOML and more) - Next.js, Prisma, NextAuth - [Repo](https://github.com/dr5hn/ilovejson) · [Site](https://ilovejson.com)
-- **ccm** - Claude Code Manager: power-user toolkit for Claude Code - [Repo](https://github.com/dr5hn/ccm) · [Site](https://dr5hn.github.io/ccm/)
+- **iLoveJSON** - JSON conversion toolkit (CSV, HTML, XML, TOML and more) - Next.js, Prisma, NextAuth - [Repo](https://github.com/dr5hn/ilovejson) · [Site](https://ilovejson.com/?utm_source=github&utm_medium=readme&utm_campaign=ilovejson)
+- **ccm** - Claude Code Manager: power-user toolkit for Claude Code - [Repo](https://github.com/dr5hn/ccm) · [Site](https://dr5hn.github.io/ccm/?utm_source=github&utm_medium=readme&utm_campaign=ccm)
 
 ## Developer Tools
 
@@ -48,11 +49,11 @@ The world's most comprehensive open-source geographic database, used by thousand
 
 ## Fun Projects
 
-- **spin-a-wheel** - Wheel of Fortune game built with Phaser.js - [Repo](https://github.com/dr5hn/spin-a-wheel) · [Site](https://dr5hn.github.io/spin-a-wheel)
+- **spin-a-wheel** - Wheel of Fortune game built with Phaser.js - [Repo](https://github.com/dr5hn/spin-a-wheel) · [Site](https://dr5hn.github.io/spin-a-wheel?utm_source=github&utm_medium=readme&utm_campaign=spin-a-wheel)
 - **scratch-n-win** - Scratch card game with Firebase Auth - Next.js - [Repo](https://github.com/dr5hn/scratch-n-win) · [Site](https://floraskitchen.in)
-- **coming-soon** - Modern single-file coming soon template (61 stars, 98 forks) - [Repo](https://github.com/dr5hn/coming-soon) · [Site](https://dr5hn.github.io/coming-soon/)
-- **403** - Single-file 403 error page template (27 stars) - [Repo](https://github.com/dr5hn/403) · [Site](https://dr5hn.github.io/403/)
-- **domain-for-sale** - Single-file domain for sale template - [Repo](https://github.com/dr5hn/domain-for-sale) · [Site](https://dr5hn.github.io/domain-for-sale/)
+- **coming-soon** - Modern single-file coming soon template (61 stars, 98 forks) - [Repo](https://github.com/dr5hn/coming-soon) · [Site](https://dr5hn.github.io/coming-soon/?utm_source=github&utm_medium=readme&utm_campaign=coming-soon)
+- **403** - Single-file 403 error page template (27 stars) - [Repo](https://github.com/dr5hn/403) · [Site](https://dr5hn.github.io/403/?utm_source=github&utm_medium=readme&utm_campaign=error-403-template)
+- **domain-for-sale** - Single-file domain for sale template - [Repo](https://github.com/dr5hn/domain-for-sale) · [Site](https://dr5hn.github.io/domain-for-sale/?utm_source=github&utm_medium=readme&utm_campaign=domain-for-sale)
 
 
 ## Connect
