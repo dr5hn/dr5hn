@@ -19,20 +19,20 @@
 
 The world's most comprehensive open-source geographic database, used by thousands of developers in production.
 
-| Project | What it does | Links |
-|---------|-------------|-------|
-| **countries-states-cities-database** | Core database - JSON, SQL, CSV, GeoJSON, XML, YAML, MongoDB, SQLite, and more | [Repo](https://github.com/dr5hn/countries-states-cities-database) |
-| **csc-app** | Freemium API platform | [Repo](https://github.com/dr5hn/csc-app) · [Site](https://app.countrystatecity.in) |
-| **csc-website-v2** | Public website - Next.js 16, Tailwind CSS 4, Three.js | [Repo](https://github.com/dr5hn/csc-website-v2) · [Site](https://countrystatecity.in) |
-| **csc-org-website** | Encyclopedia site - Next.js 16, React 19 | [Repo](https://github.com/dr5hn/csc-org-website) · [Site](https://countrystatecity.org) |
-| **csc-export-tool** | Bulk data export with credit-based billing | [Repo](https://github.com/dr5hn/csc-export-tool) · [Site](https://export.countrystatecity.in) |
-| **csc-docs** | API documentation - Mintlify | [Repo](https://github.com/dr5hn/csc-docs) · [Site](https://docs.countrystatecity.in) |
-| **@countrystatecity/countries** | NPM package - 160x smaller than alternatives | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries) · [Site](https://www.npmjs.com/package/@countrystatecity/countries) |
-| **@countrystatecity/countries-browser** | Browser-native package - jsDelivr CDN, lazy loading, works in React/Vue/Svelte | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries-browser) · [Site](https://www.npmjs.com/package/@countrystatecity/countries-browser) |
-| **@countrystatecity/cli** | CLI tool - search, explore, and generate code from geographic data | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/cli) · [Site](https://www.npmjs.com/package/@countrystatecity/cli) |
-| **@countrystatecity/timezones** | NPM package - 427 timezones, 100% IANA coverage | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/timezones) · [Site](https://www.npmjs.com/package/@countrystatecity/timezones) |
-| **countrystatecity (PyPI)** | Python package - Pydantic models, fully typed | [Repo](https://github.com/dr5hn/countrystatecity-pypi) · [Site](https://pypi.org/user/dr5hn/) |
-| **csc-swagger** | API playground - Swagger UI for exploring endpoints | [Repo](https://github.com/dr5hn/csc-swagger-playground) · [Site](http://playground.countrystatecity.in/) |
+| Project | What it does | Repo | Site |
+|---------|-------------|------|------|
+| **countries-states-cities-database** | Core database - JSON, SQL, CSV, GeoJSON, XML, YAML, MongoDB, SQLite, and more | [Repo](https://github.com/dr5hn/countries-states-cities-database) | — |
+| **csc-app** | Freemium API platform | [Repo](https://github.com/dr5hn/csc-app) | [Site](https://app.countrystatecity.in) |
+| **csc-website-v2** | Public website - Next.js 16, Tailwind CSS 4, Three.js | [Repo](https://github.com/dr5hn/csc-website-v2) | [Site](https://countrystatecity.in) |
+| **csc-org-website** | Encyclopedia site - Next.js 16, React 19 | [Repo](https://github.com/dr5hn/csc-org-website) | [Site](https://countrystatecity.org) |
+| **csc-export-tool** | Bulk data export with credit-based billing | [Repo](https://github.com/dr5hn/csc-export-tool) | [Site](https://export.countrystatecity.in) |
+| **csc-docs** | API documentation - Mintlify | [Repo](https://github.com/dr5hn/csc-docs) | [Site](https://docs.countrystatecity.in) |
+| **@countrystatecity/countries** | NPM package - 160x smaller than alternatives | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries) | [Site](https://www.npmjs.com/package/@countrystatecity/countries) |
+| **@countrystatecity/countries-browser** | Browser-native package - jsDelivr CDN, lazy loading, works in React/Vue/Svelte | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/countries-browser) | [Site](https://www.npmjs.com/package/@countrystatecity/countries-browser) |
+| **@countrystatecity/cli** | CLI tool - search, explore, and generate code from geographic data | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/cli) | [Site](https://www.npmjs.com/package/@countrystatecity/cli) |
+| **@countrystatecity/timezones** | NPM package - 427 timezones, 100% IANA coverage | [Repo](https://github.com/dr5hn/countrystatecity-npm/tree/main/packages/timezones) | [Site](https://www.npmjs.com/package/@countrystatecity/timezones) |
+| **countrystatecity (PyPI)** | Python package - Pydantic models, fully typed | [Repo](https://github.com/dr5hn/countrystatecity-pypi) | [Site](https://pypi.org/user/dr5hn/) |
+| **csc-swagger** | API playground - Swagger UI for exploring endpoints | [Repo](https://github.com/dr5hn/csc-swagger-playground) | [Site](http://playground.countrystatecity.in/) |
 
 ## Other Projects
 
